@@ -1,0 +1,365 @@
+[
+    {
+        "name": "Dell Core i3-1215U",
+        "price": 403.98,
+        "description": "Dell Core i3-1215U, 12th Gen (8GB RAM/512GB SSD/FHD/Window 11/MS Office' 21/15 (38 cm)/15 Month McAfee/Black/1.48kg Laptop",
+        "ratings": 3.7,
+        "images": [
+            {
+                "image": "/images/products/dell 1.jpg"
+            },
+            {
+                "image": "/images/products/dell 2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Samsung Original 25W Type-C Charger",
+        "price": 11.65,
+        "description": "Samsung Original 25W Type-C Travel Adaptor without Cable, White",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/sam charger 1.jpg"
+            },
+            {
+                "image": "/images/products/sam charge 2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 100,
+        "reviews": []
+    },
+
+
+    {
+        "name": "E Gate S9 Pro 100% Dust Proof Automatic Projector",
+        "price": 178.16,
+        "description": "E Gate S9 Pro 100% Dust Proof Automatic Projector, 12600 lUMENS, FHD 1080p Native & 4K Support, Sealed Optics, Auto (Keystone+Focus+Obstacle+Tilt), 2GB-32GB, HDMI-ARC, WiFi 6, Bluetooth (EL9030)",
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/projector 1.jpg"
+            },
+            {
+                "image": "/images/products/projector 2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+     
+    {
+        "name": "realme NARZO N65 5G",
+        "price": 149.71,
+        "description": "realme NARZO N65 5G (Deep Green 6GB RAM, 128GB Storage) India's 1st D6300 5G Chipset | Ultra Slim Design | 120Hz Eye Comfort Display | 50MP AI Camera| Charger in The Box",
+        "ratings": "4.1",
+        "images": [
+            {
+            "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": "10",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "TECNO Pova 5 Pro 5G",
+        "price": 179.66,
+        "description": "TECNO Pova 5 Pro 5G (Silver Fantasy, 8GB RAM,128GB Storage)| Segment 1st 68W Ultra Fast Charging | India's 1st Multi-colored Backlit ARC Interface | 50MP AI Dual Camera | 6.78”FHD+ Dot-in Display",
+        "ratings": "4.0",
+        "images": [
+            {
+            "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": "14",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "itel Color Pro 5G",
+        "price": 119.76,
+        "description": "itel Color Pro 5G | Color Changing Back | 6GB RAM+128GB ROM, Upto 12GB RAM with Memory Fusion| | Dimensity 6080|50MP AI Dual Rear Camera| 5000mAh Battery with 18W Type-C Fast Charging|Lavander Fantasy",
+        "ratings": "4.3",
+        "images": [
+            {
+            "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": "8",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+
+    {
+        "name": "Samsung Galaxy M35 5G",
+        "price": 239.57,
+        "description": "Samsung Galaxy M35 5G (Moonlight Blue,6GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger",
+        "ratings": "4.1",
+        "images": [
+            {
+            "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": "21",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "Motorola g45 5G",
+        "price": 143.73,
+        "description": "Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",
+        "ratings": "4.5",
+        "images": [
+            {
+            "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": "9",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+
+
+    {
+      "name": "SAMSUNG Galaxy A14 5G ",
+        "price": 143.73,
+        "description": "SAMSUNG Galaxy A14 5G (Light Green, 128 GB)  (6 GB RAM)",
+        "ratings": "4.1",
+        "images": [
+            {
+            "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": "9",
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "iQOO Z9 Lite 5G",
+        "price": 142.75,
+        "description": "iQOO Z9 Lite 5G (Mocha Brown, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box.",
+        "ratings": "4.3",
+        "images": [
+            {
+            "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 10,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "Boult Audio W20 Truly Wireless in Ear Earbuds ",
+        "price": 10.68,
+        "description": "Boult Audio W20 Truly Wireless in Ear Earbuds with 35H Playtime, Zen™ ENC Mic, 45ms Low Latency, 13mm Bass Drivers, Type-C Fast Charging, Made in India, Touch Control, IPX5 ear buds TWS (Glacier Blue)",
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/boult headphone 1.jpg"
+            },
+            {
+                "image": "/images/products/boult headphone 2.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 50,
+        "reviews": []
+    },
+    {
+        "name": "Fidele+ Dry Dog Food  ",
+        "price": 23.40,
+        "description": "Fidele+ Dry Dog Food A Complete Balanced Diet 3 kg Bag Suitable for All Adult Dogs of Small & Medium Breeds No Artificial Flavours Colours or Preservatives",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dog food 1.jpg"
+            },
+            {
+                "image": "/images/products/dog food 2.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 100,
+        "reviews": []
+    },
+    {
+        "name": "The Psychology of Money ",
+        "price": 3.23,
+        "description": "Morgan Housel (Author)",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/book 1.jpg"
+            }        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 100,
+        "numOfReviews": 1000,
+        "reviews": []
+    },
+    {
+        "name": "BE ACTIVE Men's Casual Shirt",
+        "price": 6.63,
+        "description": "BE ACTIVE Men's Casual Shirt|| Cotton Stylish Full Sleeves Shirt for Men",
+        "ratings": 3.7,
+        "images": [
+            {
+                "image": "/images/products/shirt 1.jpg"
+            }        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 30,
+        "numOfReviews": 100,
+        "reviews": []
+    },
+    {
+        "name": "Bata 8216 Boss-Grip Black Derby Shoes for Men",
+        "price": 8.27,
+        "description": "Bata 8216 Boss-Grip Black Derby Shoes for Men|Birthday Parties|Family Gatherings|School Performances|Flexible|Other Occasions Size: 10UK",
+        "ratings": 3.7,
+        "images": [
+            {
+                "image": "/images/products/shoe 1.jpg"
+            }        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 500,
+        "reviews": []
+    },
+
+    {
+        "name": "Maybelline New York Liquid Foundation",
+        "price": 2.14,
+        "description": "Maybelline New York Liquid Foundation, Matte & Poreless, Full Coverage Blendable Normal to Oily Skin, Fit Me, 220 Natural Beige, 18ml",
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/fontation 1.jpg"
+            },
+               {
+                "image": "/images/products/fontation 2.jpg"
+            }          ],
+        "category": "Beauty/Health",
+        "seller": "Amazon",
+        "stock": 50,
+        "numOfReviews": 1000,
+        "reviews": []
+    },
+
+    {
+        "name": "Paper Boat Absolute Health Dry Fruits Mix",
+        "price": 13.66,
+        "description": "Paper Boat Absolute Health Dry Fruits Mix, Premium Trail Mix | Healthy Mixed Nuts with Dry Fruits | Almonds | Cashews | Cranberry | Pumpkin Seeds | Candied Amla, Reusable Jar (1000g)",
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/dry fruit 1.jpg"
+            },
+            {
+                "image": "/images/products/dry fruit 2.jpg"
+            } 
+        ],
+        "category": "Beauty/Health",
+        "seller": "Amazon",
+        "stock": 100,
+        "numOfReviews": 500,
+        "reviews": []
+    },
+    {
+        "name": "Jaspo Cric Holic Heavy Duty Plastic Cricket Bat Kit",
+        "price": 15.08,
+        "description": "Jaspo Cric Holic Heavy Duty Plastic Cricket Bat Kit,Full Size (34” X 4.5”inches) Premium Bat Combo for All Age Groups – Kids/Boys/Girls/Adults",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/cricket kit 1.jpg"
+            },
+            {
+                "image": "/images/products/cricket kit 2.jpg"
+            } 
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 200,
+        "numOfReviews": 2000,
+        "reviews": []
+    },
+
+    {
+        "name": "DEVOKO 5 Piece Wicker Outdoor Patio Dining Chair & Table Conversation Furniture Set ",
+        "price": 267.41,
+        "description": "DEVOKO 5 Piece Wicker Outdoor Patio Dining Chair & Table Conversation Furniture Set for Poolside Lawn, Porch, Balcony Outdoor Garden and Terrace (White & Orange)",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/table 1.jpg"
+            },
+            {
+                "image": "/images/products/table 2.jpg"
+            } 
+        ],
+        "category": "Outdoor",
+        "seller": "Amazon",
+        "stock": 50,
+        "numOfReviews": 500,
+        "reviews": []
+    },
+    {
+        "name": "Dulux Promise Exterior Emulsion Paint (20L, Big Chill)",
+        "price": 59.55,
+        "description": "Dulux Promise Exterior Emulsion Paint (20L, Big Chill) | Ideal for Exterior Walls | Smooth Finish | Anti-Peel & Anti-Crack | Ideal for Dry to Moderate Climates",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/paint 1.jpg"
+            },
+            {
+                "image": "/images/products/paint 2.jpg"
+            } 
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 18,
+        "reviews": []
+    }
+
+]
