@@ -20,6 +20,63 @@
     },
 
     {
+        "name": "Dell {Smartchoice} G15-5530 Core i5-13450HX",
+        "price": 924.06,
+        "description": "Dell {Smartchoice} G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB (16GB RAM|1TB SSD, FHD|Window 11|MS Office' 21|15.6",
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/dell i5 1.jpg"
+            },
+            {
+                "image": "/images/products/dell i5 2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 927,
+        "reviews": []
+    },
+    {
+        "name": "Acer Aspire Lite AMD Ryzen 5-5625U",
+        "price": 414.57,
+        "description": "Acer Aspire Lite AMD Ryzen 5-5625U Premium Thin and Light Laptop (16 GB RAM/512 GB SSD/Windows 11 Home) AL15-41, 39.62 cm (15.6) Full HD Display, Metal Body, Steel Gray, 1.59 KG",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/acer 1.jpg"
+            },
+            {
+                "image": "/images/products/acer 2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 51,
+        "reviews": []
+    },
+    {
+        "name": "HP 15s Core i5 12th Gen",
+        "price": 574.53,
+        "description": "HP 15s Core i5 12th Gen (8GB RAM/512GB SSD/FHD/15.6 (39.6 cm)/Windows 11/MS Office/Backlit Keyboard/Silver/1.69 kg) fq5329TU Laptop",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/hp 1.jpg"
+            },
+            {
+                "image": "/images/products/hp 2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 168,
+        "reviews": []
+    },
+    {
         "name": "Samsung Original 25W Type-C Charger",
         "price": 11.65,
         "description": "Samsung Original 25W Type-C Travel Adaptor without Cable, White",
@@ -32,7 +89,7 @@
                 "image": "/images/products/sam charge 2.jpg"
             }
         ],
-        "category": "Laptops",
+        "category": "Electronics",
         "seller": "Amazon",
         "stock": 20,
         "numOfReviews": 100,
@@ -250,6 +307,21 @@
         "reviews": []
     },
     {
+        "name": "Levi's Men's Regular Fit",
+        "price": 11.84,
+        "description": "Levi's Men's Regular Fit Batwing Brand Logo T-Shirt",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/t-shirt 1.jpg"
+            }        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 30,
+        "numOfReviews": 100,
+        "reviews": []
+    },
+    {
         "name": "Bata 8216 Boss-Grip Black Derby Shoes for Men",
         "price": 8.27,
         "description": "Bata 8216 Boss-Grip Black Derby Shoes for Men|Birthday Parties|Family Gatherings|School Performances|Flexible|Other Occasions Size: 10UK",
@@ -322,6 +394,25 @@
         "numOfReviews": 2000,
         "reviews": []
     },
+    {
+        "name": "Nivia Storm Football | Rubberized Moulded",
+        "price": 4.14,
+        "description": "Nivia Storm Football | Rubberized Moulded | Suitable for Hard Ground Without Grass | Training Ball | Soccer Ball | for Men/Women | Football Size - 5 (White)",
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/ball 1.jpg"
+            },
+            {
+                "image": "/images/products/ball 2.jpg"
+            } 
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 200,
+        "numOfReviews": 2000,
+        "reviews": []
+    },
 
     {
         "name": "DEVOKO 5 Piece Wicker Outdoor Patio Dining Chair & Table Conversation Furniture Set ",
@@ -360,6 +451,26 @@
         "stock": 10,
         "numOfReviews": 18,
         "reviews": []
+    },
+ {
+        "name": "Dulux Promise Exterior Emulsion Paint (4L, Ivory))",
+        "price": 11.96,
+        "description": "Dulux Promise Exterior Emulsion Paint (4L, Ivory) | Ideal for Exterior Walls | Smooth Finish | Anti-Peel & Anti-Crack | Long-Lasting Colors",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/y-paint 1.jpg"
+            },
+            {
+                "image": "/images/products/y-paint 2.jpg"
+            } 
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 12,
+        "reviews": []
     }
+
 
 ]
